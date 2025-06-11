@@ -1,8 +1,7 @@
 
 ---
 
-# 📊 India COVID-19 Forecasting Repository
-
+# 📊 India COVID-19 Forecasting
 This repository contains Python scripts and data to analyze and forecast the spread of the coronavirus (COVID-19) in India using historical data and Prophet time series forecasting.
 
 ## 🧾 Overview
